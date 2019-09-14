@@ -8,7 +8,7 @@
 
 <body>
    	<h1>Cette page wild.php de la branch wcs</h1>
-	<!--Ci dessous le texte ecrit sur la branche master -->
+	<!--Ci dessous le texte ecrit sur la branche wcs -->
 	<p>A la wild, on code en chaussette</p>
 </body>
 
