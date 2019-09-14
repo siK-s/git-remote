@@ -1,1 +1,2 @@
 Ceci est un autre fichier txt.
+Modification du fichier sur Github (On fait comme si c'était un autre collaborateur qui modifiait le fichier)
